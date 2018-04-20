@@ -1,31 +1,24 @@
 {
     "channelNo": 22,
+    "USR_ID": "LY",
+    "USR_PWD": "2231f96c-50c6-49c8-8b3a-ea08a13610e7",
     "currency": "CNY",
-    "routeType": "RT",
-    "language": "ZH",
-    "saleDate": "2018-04-09",
-    "cabinRank": "",
-    "paxType": "ADT",
+    "routeType": "OW",
+    "currType": "0",
+    "language": "zh",
+    "saleDate": "2018-04-20",
     "routeList": [
         {
             "routeDirect": "depart",
-            "routeName": "SHA/KMG/BKK",
-            "travelDate": "2018-04-18/2018-04-18",
-            "flightNo": "MU5804/MU2573",
-            "cabinName": "UFPAJCDIOQYWNMBEHKLNRSVTGZX/UFPAJCDIOQYWNMBEHKLNRSVTGZX"
-        },
-        {
-            "routeDirect": "return",
-            "routeName": "BKK/KMG/SHA",
-            "travelDate": "2018-04-20/2018-04-20",
-            "flightNo": "MU5781/MU5788",
-            "cabinName": "UFPAJCDIOQYWNMBEHKLNRSVTGZX/UFPAJCDIOQYWNMBEHKLNRSVTGZX"
+            "routeName": "ARN/PVG",
+            "travelDate": "2018-07-15",
+            "travelTime": "0000",
+            "arrDate": "2018-07-15",
+            "arrTime": "0000",
+            "flightNo": "MU290",
+            "cabinName": "BCDEHIJKLMNOQRXY",
+            "codeShare": ""
         }
     ],
-    "specialFareCode": "",
-    "kamNo": "",
-    "queryType": "all",
-    "logFlag": false,
-    "USR_ID": "22",
-    "USR_PWD": "f425902c-882a-465f-8ee8-c1a4d8c6b31d"
+    "queryType": ""
 }
