@@ -1,0 +1,1 @@
+{"channelNo":22,"USR_ID":"USR_ID","USR_PWD":"USR_PWD","currency":"CNY","routeType":"OW","currType":"0","language":"zh","saleDate":"2018-02-08 02:03:56","paxType":"ADT","queryType":"","routeList":[{"routeDirect":"depart","routeName":"SHA/LAX","travelDate":"2018-02-25","travelTime":"","arrDate":"2018-02-25","arrTime":"","flightNo":"MU335","cabinName":"BY"}]}

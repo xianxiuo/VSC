@@ -1,0 +1,34 @@
+{
+    "channelNo": 47,
+    "USR_ID": "USR_ID",
+    "USR_PWD": "USR_PWD",
+    "currency": "CNY",
+    "routeType": "RT",
+    "currType": "0",
+    "language": "zh",
+    "saleDate": "2018-04-09 09:02:12",
+    "paxType": "ADT",
+    "routeList": [
+        {
+            "routeDirect": "depart",
+            "routeName": "SHA/KMG/BKK",
+            "travelDate": "2018-04-18/2018-04-18",
+            "travelTime": "0715/1300",
+            "arrDate": "2018-04-18/2018-04-18",
+            "arrTime": "1035/1830",
+            "flightNo": "MU5804/MU2573",
+            "cabinName": "UFPAJCDIOQYWNMBEHKLNRSVTGZX/UFPAJCDIOQYWNMBEHKLNRSVTGZX"
+        },
+        {
+            "routeDirect": "return",
+            "routeName": "BKK/KMG/SHA",
+            "travelDate": "2018-04-20/2018-04-20",
+            "travelTime": "0630/1300",
+            "arrDate": "2018-04-20/2018-04-20",
+            "arrTime": "1145/1630",
+            "flightNo": "MU5781/MU5788",
+            "cabinName": "UFPAJCDIOQYWNMBEHKLNRSVTGZX/UFPAJCDIOQYWNMBEHKLNRSVTGZX"
+        }
+    ],
+    "queryType": "ALL"
+}

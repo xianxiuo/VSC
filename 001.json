@@ -1,0 +1,197 @@
+{
+    "channelNo": 220,
+    "currency": "CNY",
+    "routeType": "RT",
+    "language": "zh",
+    "saleDate": "2018-04-12",
+    "cabinRank": "ECONOMY",
+    "routeList": [
+        {
+            "routeDirect": "depart",
+            "routeName": "PEK/PVGA",
+            "travelDate": "2018-04-22/2018-04-22",
+            "flightNo": "MU5183/MU287",
+            "cabinName": "ABCDEFHIJKLMNPQRXYZ/CDEHJKLMNOQRSVXYZ"
+        },
+        {
+            "routeDirect": "depart",
+            "routeName": "PEK/XIYA",
+            "travelDate": "2018-04-22/2018-04-23",
+            "flightNo": "MU2120/MU233",
+            "cabinName": "ABCDEFHIJKLMNPQRSXY/BCDEHIJKLMNOQRSTVXY"
+        },
+        {
+            "routeDirect": "depart",
+            "routeName": "PEK/XIYA",
+            "travelDate": "2018-04-22/2018-04-23",
+            "flightNo": "MU2118/MU233",
+            "cabinName": "ABCDEFHIJKLMNPQRSVXY/BCDEHIJKLMNOQRSTVXY"
+        },
+        {
+            "routeDirect": "depart",
+            "routeName": "PEK/XIYA",
+            "travelDate": "2018-04-22/2018-04-23",
+            "flightNo": "MU2116/MU233",
+            "cabinName": "ABCDEFHIJKLMNPQRSVXY/BCDEHIJKLMNOQRSTVXY"
+        },
+        {
+            "routeDirect": "depart",
+            "routeName": "PEK/PVGA",
+            "travelDate": "2018-04-22/2018-04-23",
+            "flightNo": "MU5130/MU2085",
+            "cabinName": "ABCEFJKLMXYZ/CDEHIJKLMNOQRSVYZ"
+        },
+        {
+            "routeDirect": "depart",
+            "routeName": "PEK/XIYA",
+            "travelDate": "2018-04-22/2018-04-23",
+            "flightNo": "MU2114/MU233",
+            "cabinName": "ABCDEFHIJKLMNPQRXY/BCDEHIJKLMNOQRSTVXY"
+        },
+        {
+            "routeDirect": "depart",
+            "routeName": "PEK/PVGA",
+            "travelDate": "2018-04-22/2018-04-23",
+            "flightNo": "MU563/MU2085",
+            "cabinName": "EHJKMOWY/EHJKMOXY"
+        },
+        {
+            "routeDirect": "depart",
+            "routeName": "PEK/PVGA",
+            "travelDate": "2018-04-22/2018-04-23",
+            "flightNo": "MU5130/MU287",
+            "cabinName": "ABCEFJKLMXYZ/CDEHJKLMNOQRSXYZ"
+        },
+        {
+            "routeDirect": "depart",
+            "routeName": "PEK/XIYA",
+            "travelDate": "2018-04-22/2018-04-23",
+            "flightNo": "MU2112/MU233",
+            "cabinName": "ABCDEFHIJKLMNPQRSXY/BCDEHIJKLMNOQRSTVXY"
+        },
+        {
+            "routeDirect": "depart",
+            "routeName": "PEK/XIYA",
+            "travelDate": "2018-04-22/2018-04-23",
+            "flightNo": "MU2110/MU233",
+            "cabinName": "ABCDEFHIJKLMNPQRSVXY/BCDEHIJKLMNOQRSTVXY"
+        },
+        {
+            "routeDirect": "depart",
+            "routeName": "PEK/PVGA",
+            "travelDate": "2018-04-22/2018-04-23",
+            "flightNo": "MU563/MU287",
+            "cabinName": "EHJKMOWY/EHJKMOXY"
+        },
+        {
+            "routeDirect": "depart",
+            "routeName": "PEK/XIYA",
+            "travelDate": "2018-04-22/2018-04-23",
+            "flightNo": "MU2108/MU233",
+            "cabinName": "ABCDEFHIJKLMNQRSVXY/BCDEHIJKLMNOQRSTVXY"
+        },
+        {
+            "routeDirect": "depart",
+            "routeName": "PEK/HGHA",
+            "travelDate": "2018-04-22/2018-04-23",
+            "flightNo": "MU5458/MU2063",
+            "cabinName": "ABCDEFHJKLMNPRSXY/BCDEHIKLMNOQRSVXYZ"
+        },
+        {
+            "routeDirect": "return",
+            "routeName": "OKA/PVG/PEK",
+            "travelDate": "2018-04-27/2018-04-27",
+            "flightNo": "MU288/MU5186",
+            "cabinName": "BCDEHIJKLMNOQRSXY/ABFJXY"
+        },
+        {
+            "routeDirect": "return",
+            "routeName": "OKA/PVG/PEK",
+            "travelDate": "2018-04-27/2018-04-27",
+            "flightNo": "MU2086/MU5186",
+            "cabinName": "BCDEHIJKLMNOQRSXY/ABFJXY"
+        },
+        {
+            "routeDirect": "return",
+            "routeName": "OKA/XIY/PEK",
+            "travelDate": "2018-04-27/2018-04-27",
+            "flightNo": "MU234/MU2117",
+            "cabinName": "BCDEHIJKLMNQRSTVXYZ/ABCDEFIJMPQXY"
+        },
+        {
+            "routeDirect": "return",
+            "routeName": "OKA/XIY/PEK",
+            "travelDate": "2018-04-27/2018-04-27",
+            "flightNo": "MU234/MU2119",
+            "cabinName": "BCDEHIJKLMNQRSTVXYZ/ABCDEFIJKMPQXY"
+        },
+        {
+            "routeDirect": "return",
+            "routeName": "OKA/HGH/PEK",
+            "travelDate": "2018-04-27/2018-04-28",
+            "flightNo": "MU2064/MU5131",
+            "cabinName": "BCDEHIJKLMNOQRSVXYZ/ABCDFIJKLNPRXY"
+        },
+        {
+            "routeDirect": "return",
+            "routeName": "OKA/PVG/PEK",
+            "travelDate": "2018-04-27/2018-04-28",
+            "flightNo": "MU288/MU5129",
+            "cabinName": "BCDEHIJKLMNOQRSXY/ABFJY"
+        },
+        {
+            "routeDirect": "return",
+            "routeName": "OKA/HGH/PEK",
+            "travelDate": "2018-04-27/2018-04-28",
+            "flightNo": "MU2064/FM9157",
+            "cabinName": "BCDEHIJKLMNOQRSVXYZ/ACDEFIJKLMXY"
+        },
+        {
+            "routeDirect": "return",
+            "routeName": "OKA/PVG/PEK",
+            "travelDate": "2018-04-27/2018-04-28",
+            "flightNo": "MU2086/MU5129",
+            "cabinName": "BCDEHIJKLMNOQRSXY/ABFJY"
+        },
+        {
+            "routeDirect": "return",
+            "routeName": "OKA/XIY/PEK",
+            "travelDate": "2018-04-27/2018-04-28",
+            "flightNo": "MU234/MU2101",
+            "cabinName": "BCDEHIJKLMNQRSTVXYZ/ABCDEFHIJKLMNPQRXY"
+        },
+        {
+            "routeDirect": "return",
+            "routeName": "OKA/PVG/PEK",
+            "travelDate": "2018-04-27/2018-04-28",
+            "flightNo": "MU288/MU564",
+            "cabinName": "BCDJXY/BCDJWY"
+        },
+        {
+            "routeDirect": "return",
+            "routeName": "OKA/HGH/PEK",
+            "travelDate": "2018-04-27/2018-04-28",
+            "flightNo": "MU2064/MU5457",
+            "cabinName": "BCDEHIJKLMNOQRSVXYZ/ACDEFJKMXY"
+        },
+        {
+            "routeDirect": "return",
+            "routeName": "OKA/XIY/PEK",
+            "travelDate": "2018-04-27/2018-04-28",
+            "flightNo": "MU234/MU2103",
+            "cabinName": "BCDEHIJKLMNQRSTVXYZ/ABCDEFIJKLMNPQXY"
+        },
+        {
+            "routeDirect": "return",
+            "routeName": "OKA/HGH/PEK",
+            "travelDate": "2018-04-27/2018-04-28",
+            "flightNo": "MU2064/MU5148",
+            "cabinName": "BCDEHIJKLMNOQRSVXYZ/ABCDEFIJKLMPXY"
+        }
+    ],
+    "kamNo": "",
+    "queryType": "",
+    "logFlag": false,
+    "USR_ID": "B2T",
+    "USR_PWD": "d052bb9b5d5368669d4811c46f7e5cb8"
+}

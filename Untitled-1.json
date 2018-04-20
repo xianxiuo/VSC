@@ -1,0 +1,176 @@
+{
+    "channelNo": 220,
+    "currency": "CNY",
+    "routeType": "RT",
+    "language": "zh",
+    "saleDate": "2018-04-17",
+    "cabinRank": "ECONOMY",
+    "routeList": [
+        {
+            "routeDirect": "depart",
+            "routeName": "PVG/TPE",
+            "travelDate": "2018-04-21",
+            "flightNo": "MU5007",
+            "cabinName": "JOY"
+        },
+        {
+            "routeDirect": "depart",
+            "routeName": "PVG/TPE",
+            "travelDate": "2018-04-21",
+            "flightNo": "MU5005",
+            "cabinName": "JXY"
+        },
+        {
+            "routeDirect": "depart",
+            "routeName": "PVG/NGB/TPE",
+            "travelDate": "2018-04-21/2018-04-22",
+            "flightNo": "MU5700/MU2009",
+            "cabinName": "ABEFKLMNPRSTVXY/BCEHIJKLMNOXY"
+        },
+        {
+            "routeDirect": "depart",
+            "routeName": "PVG/HFE/TPE",
+            "travelDate": "2018-04-21/2018-04-22",
+            "flightNo": "MU5467/MU2049",
+            "cabinName": "BCDEFHIJKLMNPQRSTVY/JOXY"
+        },
+        {
+            "routeDirect": "depart",
+            "routeName": "PVG/TYN/TPE",
+            "travelDate": "2018-04-21/2018-04-22",
+            "flightNo": "MU5214/MU5011",
+            "cabinName": "ABCDFHJPQXY/CDJOQY"
+        },
+        {
+            "routeDirect": "depart",
+            "routeName": "PVG/NKG/TPE",
+            "travelDate": "2018-04-21/2018-04-22",
+            "flightNo": "MU2882/MU5001",
+            "cabinName": "BCDEFHIJKLMNQRSXYZ/BJMY"
+        },
+        {
+            "routeDirect": "depart",
+            "routeName": "PVG/HFE/TPE",
+            "travelDate": "2018-04-21/2018-04-22",
+            "flightNo": "MU5463/MU2049",
+            "cabinName": "ABCDFJPQY/JOXY"
+        },
+        {
+            "routeDirect": "depart",
+            "routeName": "PVG/TYN/TPE",
+            "travelDate": "2018-04-21/2018-04-22",
+            "flightNo": "MU2401/MU5011",
+            "cabinName": "BCJXY/CDJOQY"
+        },
+        {
+            "routeDirect": "return",
+            "routeName": "TPE/PVG",
+            "travelDate": "2018-05-01",
+            "flightNo": "MU5008",
+            "cabinName": "BEFHJMPUY"
+        },
+        {
+            "routeDirect": "return",
+            "routeName": "TPE/LHW/PVG",
+            "travelDate": "2018-05-01/2018-05-01",
+            "flightNo": "MU2014/MU2353",
+            "cabinName": "BCDEHIJKLMNORSXY/ABCEFJKLMNPQRXY"
+        },
+        {
+            "routeDirect": "return",
+            "routeName": "TPE/HFE/PVG",
+            "travelDate": "2018-05-01/2018-05-02",
+            "flightNo": "MU2050/MU5468",
+            "cabinName": "BCDEHJKLMNOQXY/BDEFHIJKLMNPQRSTVY"
+        },
+        {
+            "routeDirect": "return",
+            "routeName": "TPE/NKG/PVG",
+            "travelDate": "2018-05-01/2018-05-02",
+            "flightNo": "MU5002/MU2881",
+            "cabinName": "BCDEHJKMQY/BCDEFHIJKLMNQRSTVXYZ"
+        },
+        {
+            "routeDirect": "return",
+            "routeName": "TPE/HFE/PVG",
+            "travelDate": "2018-05-01/2018-05-02",
+            "flightNo": "MU2050/MU5464",
+            "cabinName": "BCDEHJKLMNOQXY/ABCDEFIJKLMNPQRSTVY"
+        },
+        {
+            "routeDirect": "return",
+            "routeName": "TPE/NGB/PVG",
+            "travelDate": "2018-05-01/2018-05-02",
+            "flightNo": "MU2010/MU5699",
+            "cabinName": "BEHJMOXY/ABEFHKLMNPRSXYZ"
+        },
+        {
+            "routeDirect": "return",
+            "routeName": "TPE/TYN/PVG",
+            "travelDate": "2018-05-01/2018-05-02",
+            "flightNo": "MU5012/MU2402",
+            "cabinName": "BCDEHJKLMNOXY/ABCEFJKLMPWY"
+        },
+        {
+            "routeDirect": "return",
+            "routeName": "TPE/LHW/PVG",
+            "travelDate": "2018-05-01/2018-05-02",
+            "flightNo": "MU2014/MU719",
+            "cabinName": "BCDEHIJKLMNORSXY/BCDEJKLMNORXY"
+        },
+        {
+            "routeDirect": "return",
+            "routeName": "TPE/KMG/PVG",
+            "travelDate": "2018-05-01/2018-05-02",
+            "flightNo": "MU2028/MU747",
+            "cabinName": "BCDEHIJKLMNQY/BEJKLMNRSVWXYZ"
+        },
+        {
+            "routeDirect": "return",
+            "routeName": "TPE/KMG/PVG",
+            "travelDate": "2018-05-01/2018-05-02",
+            "flightNo": "MU2028/MU5817",
+            "cabinName": "BCDEHIJKLMNQY/ABCDEFHIJKLMNPQRSTVWXYZ"
+        },
+        {
+            "routeDirect": "return",
+            "routeName": "TPE/KMG/PVG",
+            "travelDate": "2018-05-01/2018-05-02",
+            "flightNo": "MU2028/MU756",
+            "cabinName": "BCDEHIJKLMNOQXY/BCEHJKLMNORSVXY"
+        },
+        {
+            "routeDirect": "return",
+            "routeName": "TPE/KMG/PVG",
+            "travelDate": "2018-05-01/2018-05-02",
+            "flightNo": "MU2028/MU5464",
+            "cabinName": "BCDEHIJKLMNQY/ABCDEFIJKLMNPQRSXY"
+        },
+        {
+            "routeDirect": "return",
+            "routeName": "TPE/KMG/PVG",
+            "travelDate": "2018-05-01/2018-05-02",
+            "flightNo": "MU2028/MU9711",
+            "cabinName": "BCDEHIJKLMNQY/BCDEFHIJKLMNPQRSVXY"
+        },
+        {
+            "routeDirect": "return",
+            "routeName": "TPE/HIA/PVG",
+            "travelDate": "2018-05-01/2018-05-02",
+            "flightNo": "MU2912/MU5608",
+            "cabinName": "BEJKLMNRSY/ABEFHKLMNPRSXY"
+        },
+        {
+            "routeDirect": "return",
+            "routeName": "TPE/KMG/PVG",
+            "travelDate": "2018-05-01/2018-05-02",
+            "flightNo": "MU2028/MU9715",
+            "cabinName": "BCDEHIJKLMNQY/ABCDEFHIJKLMNPQRSVXY"
+        }
+    ],
+    "kamNo": "",
+    "queryType": "",
+    "logFlag": false,
+    "USR_ID": "B2T",
+    "USR_PWD": "d052bb9b5d5368669d4811c46f7e5cb8"
+}

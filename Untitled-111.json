@@ -1,0 +1,255 @@
+{
+    "channelNo": 220,
+    "currency": "CNY",
+    "routeType": "RT",
+    "language": "zh",
+    "saleDate": "2018-04-18",
+    "cabinRank": "ECONOMY",
+    "routeList": [
+        {
+            "routeDirect": "depart",
+            "routeName": "ZHA/PVG/HKG",
+            "travelDate": "2018-04-26/2018-04-26",
+            "arrDate": "2018-04-26/2018-04-26",
+            "flightNo": "FM9360/MU507",
+            "cabinName": "ABCDEFIJKLMNPQXY/BCDEHIJKLMNOQRSXY"
+        },
+        {
+            "routeDirect": "depart",
+            "routeName": "ZHA/PVG/HKG",
+            "travelDate": "2018-04-26/2018-04-26",
+            "arrDate": "2018-04-26/2018-04-26",
+            "flightNo": "MU5603/MU725",
+            "cabinName": "ABCDEFHJKLMXY/BCEHJKLMOXY"
+        },
+        {
+            "routeDirect": "depart",
+            "routeName": "ZHA/PVG/HKG",
+            "travelDate": "2018-04-26/2018-04-26",
+            "arrDate": "2018-04-26/2018-04-26",
+            "flightNo": "FM9360/MU503",
+            "cabinName": "ABCDEFIJKLMNPQXY/BCDEHJKLMNOQRXY"
+        },
+        {
+            "routeDirect": "depart",
+            "routeName": "ZHA/PVG/HKG",
+            "travelDate": "2018-04-26/2018-04-26",
+            "arrDate": "2018-04-26/2018-04-26",
+            "flightNo": "FM9360/MU509",
+            "cabinName": "ABCDEFIJKLMNPQXY/BCDEHJKLMOXY"
+        },
+        {
+            "routeDirect": "depart",
+            "routeName": "ZHA/PVG/HKG",
+            "travelDate": "2018-04-26/2018-04-26",
+            "arrDate": "2018-04-26/2018-04-26",
+            "flightNo": "FM9360/MU505",
+            "cabinName": "ABCDEFIJKLMNPQXY/BCDEHJKMOXY"
+        },
+        {
+            "routeDirect": "depart",
+            "routeName": "ZHA/PVG/HKG",
+            "travelDate": "2018-04-26/2018-04-26",
+            "arrDate": "2018-04-26/2018-04-26",
+            "flightNo": "FM9360/MU723",
+            "cabinName": "ABCDEFIJKLMNPQXY/BEHKLMNXY"
+        },
+        {
+            "routeDirect": "depart",
+            "routeName": "ZHA/NKG/HKG",
+            "travelDate": "2018-04-26/2018-04-27",
+            "arrDate": "2018-04-26/2018-04-27",
+            "flightNo": "MU2798/MU765",
+            "cabinName": "ABCDEFIJKLMNPRSVXY/BCDEHIJKLMNOQRSTVXY"
+        },
+        {
+            "routeDirect": "depart",
+            "routeName": "ZHA/PVG/HKG",
+            "travelDate": "2018-04-26/2018-04-26",
+            "arrDate": "2018-04-26/2018-04-26",
+            "flightNo": "FM9360/MU725",
+            "cabinName": "ABCDEFIJKLMNPQXY/BCEHJKLMOXY"
+        },
+        {
+            "routeDirect": "depart",
+            "routeName": "ZHA/PVG/HKG",
+            "travelDate": "2018-04-26/2018-04-27",
+            "arrDate": "2018-04-26/2018-04-27",
+            "flightNo": "MU5603/MU501",
+            "cabinName": "ABCDEFHJKLMXY/BCDEHJMOY"
+        },
+        {
+            "routeDirect": "depart",
+            "routeName": "ZHA/KMG/HKG",
+            "travelDate": "2018-04-26/2018-04-27",
+            "arrDate": "2018-04-26/2018-04-27",
+            "flightNo": "MU5884/MU733",
+            "cabinName": "BEMXY/BEHJKLMNORSXY"
+        },
+        {
+            "routeDirect": "depart",
+            "routeName": "ZHA/PVG/HKG",
+            "travelDate": "2018-04-26/2018-04-27",
+            "arrDate": "2018-04-26/2018-04-27",
+            "flightNo": "MU5603/MU701",
+            "cabinName": "ABCDEFHJKLMXY/BCEHJMXY"
+        },
+        {
+            "routeDirect": "depart",
+            "routeName": "ZHA/PVG/HKG",
+            "travelDate": "2018-04-26/2018-04-27",
+            "arrDate": "2018-04-26/2018-04-27",
+            "flightNo": "MU5603/MU507",
+            "cabinName": "ABCDEFHJKLMXY/BJMOXY"
+        },
+        {
+            "routeDirect": "depart",
+            "routeName": "ZHA/SHA/HKG",
+            "travelDate": "2018-04-26/2018-04-27",
+            "arrDate": "2018-04-26/2018-04-27",
+            "flightNo": "FM9536/MU721",
+            "cabinName": "BEFJKLMNXY/BCDEHJMOXY"
+        },
+        {
+            "routeDirect": "depart",
+            "routeName": "ZHA/PVG/HKG",
+            "travelDate": "2018-04-26/2018-04-27",
+            "arrDate": "2018-04-26/2018-04-27",
+            "flightNo": "MU5603/MU503",
+            "cabinName": "ABCDEFHJKLMXY/BEJMOXY"
+        },
+        {
+            "routeDirect": "depart",
+            "routeName": "ZHA/PVG/HKG",
+            "travelDate": "2018-04-26/2018-04-27",
+            "arrDate": "2018-04-26/2018-04-27",
+            "flightNo": "MU5603/MU509",
+            "cabinName": "ABCDEFHJKLMXY/BJMOXY"
+        },
+        {
+            "routeDirect": "return",
+            "routeName": "HKG/ZHA",
+            "travelDate": "2018-05-06",
+            "arrDate": "2018-05-06",
+            "flightNo": "FM850",
+            "cabinName": "BCDEHIJKLMNOQRSTVXY"
+        },
+        {
+            "routeDirect": "return",
+            "routeName": "HKG/PVG/ZHA",
+            "travelDate": "2018-05-06/2018-05-06",
+            "arrDate": "2018-05-06/2018-05-06",
+            "flightNo": "MU726/MU5602",
+            "cabinName": "BCDEHJKLMNOXY/BEFJKLMNRXY"
+        },
+        {
+            "routeDirect": "return",
+            "routeName": "HKG/NKG/ZHA",
+            "travelDate": "2018-05-06/2018-05-06",
+            "arrDate": "2018-05-06/2018-05-06",
+            "flightNo": "MU766/MU2797",
+            "cabinName": "BCDEHJKLMOXY/ABCDEFIJKLMNPRXY"
+        },
+        {
+            "routeDirect": "return",
+            "routeName": "HKG/SHA/ZHA",
+            "travelDate": "2018-05-06/2018-05-07",
+            "arrDate": "2018-05-06/2018-05-07",
+            "flightNo": "FM846/FM9535",
+            "cabinName": "BCEHJMOY/EFJXY"
+        },
+        {
+            "routeDirect": "return",
+            "routeName": "HKG/PVG/ZHA",
+            "travelDate": "2018-05-06/2018-05-07",
+            "arrDate": "2018-05-06/2018-05-07",
+            "flightNo": "MU506/FM9359",
+            "cabinName": "CDEHJKMOY/ABCDEFIJKLMNPRXY"
+        },
+        {
+            "routeDirect": "return",
+            "routeName": "HKG/PVG/ZHA",
+            "travelDate": "2018-05-06/2018-05-07",
+            "arrDate": "2018-05-06/2018-05-07",
+            "flightNo": "MU506/MU5602",
+            "cabinName": "CDEHJKMOY/ABEFJKLMNPRSXY"
+        },
+        {
+            "routeDirect": "return",
+            "routeName": "HKG/PVG/ZHA",
+            "travelDate": "2018-05-06/2018-05-07",
+            "arrDate": "2018-05-06/2018-05-07",
+            "flightNo": "MU510/FM9359",
+            "cabinName": "CEHJMY/ABCDEFIJKLMNPRXY"
+        },
+        {
+            "routeDirect": "return",
+            "routeName": "HKG/PVG/ZHA",
+            "travelDate": "2018-05-06/2018-05-07",
+            "arrDate": "2018-05-06/2018-05-07",
+            "flightNo": "MU504/FM9359",
+            "cabinName": "BCEHJKMY/ABCDEFIJKLMNPRXY"
+        },
+        {
+            "routeDirect": "return",
+            "routeName": "HKG/XIY/ZHA",
+            "travelDate": "2018-05-06/2018-05-07",
+            "arrDate": "2018-05-06/2018-05-07",
+            "flightNo": "MU204/MU2261",
+            "cabinName": "CDJOQ/ABCDEFIJKLMNPQRSTVXY"
+        },
+        {
+            "routeDirect": "return",
+            "routeName": "HKG/PVG/ZHA",
+            "travelDate": "2018-05-06/2018-05-07",
+            "arrDate": "2018-05-06/2018-05-07",
+            "flightNo": "MU510/MU5602",
+            "cabinName": "CEHJMY/ABEFJKLMNPRSXY"
+        },
+        {
+            "routeDirect": "return",
+            "routeName": "HKG/PVG/ZHA",
+            "travelDate": "2018-05-06/2018-05-07",
+            "arrDate": "2018-05-06/2018-05-07",
+            "flightNo": "MU508/FM9359",
+            "cabinName": "CDEHJMOY/ABCDEFIJKLMNPRXY"
+        },
+        {
+            "routeDirect": "return",
+            "routeName": "HKG/PVG/ZHA",
+            "travelDate": "2018-05-06/2018-05-07",
+            "arrDate": "2018-05-06/2018-05-07",
+            "flightNo": "MU504/MU5602",
+            "cabinName": "BCEHJKMY/ABEFJKLMNPRSXY"
+        },
+        {
+            "routeDirect": "return",
+            "routeName": "HKG/SHA/ZHA",
+            "travelDate": "2018-05-06/2018-05-07",
+            "arrDate": "2018-05-06/2018-05-07",
+            "flightNo": "MU722/FM9535",
+            "cabinName": "CDEHJKMY/EFJXY"
+        },
+        {
+            "routeDirect": "return",
+            "routeName": "HKG/PVG/ZHA",
+            "travelDate": "2018-05-06/2018-05-07",
+            "arrDate": "2018-05-06/2018-05-07",
+            "flightNo": "FM812/FM9359",
+            "cabinName": "BCDEHJKMOY/ABCDEFIJKLMNPRXY"
+        },
+        {
+            "routeDirect": "return",
+            "routeName": "HKG/PVG/ZHA",
+            "travelDate": "2018-05-06/2018-05-07",
+            "arrDate": "2018-05-06/2018-05-07",
+            "flightNo": "MU508/MU5602",
+            "cabinName": "CDEHJMOY/ABEFJKLMNPRSXY"
+        }
+    ],
+    "kamNo": "",
+    "queryType": "",
+    "logFlag": false,
+    "USR_ID": "B2T",
+    "USR_PWD": "d052bb9b5d5368669d4811c46f7e5cb8"
+}

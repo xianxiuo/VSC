@@ -1,0 +1,3 @@
+./jmeter -n -t /root/Apps/JMeter/EC压力测试-1000-10.jmx -l /root/Apps/JMeter/EC压力测试-1000-10.jtl -e -o /root/Apps/JMeter/EC压力测试-1000-10
+
+zip -r ../../EC压力测试-1000-10.zip ../../EC压力测试-1000-10
