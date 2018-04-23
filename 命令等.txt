@@ -13,3 +13,5 @@ ssh-keygen -t rsa -C "xianxiuo@163.com"
 
 git config --list
 git config --global http.proxy "172.31.1.246:80"
+
+svn checkout https://uniconfms-svn.ceair.com/svn/140108_东航运价计算引擎系统/ATPCO/ATPCOIntegration --username it_wangwenlong --password ssap_0917!
