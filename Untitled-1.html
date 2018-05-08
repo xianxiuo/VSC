@@ -1,25 +1,49 @@
-<html>
-<head>
-    <style>
-    #main {
-        margin: 0 auto;
-        width: 1000px;
-        background-color: #cccccc;
+<table>
+    <tr>
+        <td>type</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>data</td>
+        <td> </td>
+    </tr>
+
+</table>
+
+{
+    "type": 0,
+    "data": {
+        "channelNo": 22,
+        "USR_ID": "USR_ID",
+        "USR_PWD": "USR_PWD",
+        "currency": "CNY",
+        "routeType": "OJ",
+        "currType": "0",
+        "language": "zh",
+        "saleDate": "2018-05-03",
+        "paxType": "ADT",
+        "queryType": "",
+        "routeList": [
+            {
+                "routeDirect": "depart",
+                "routeName": "CTU/SHA/LAX/ATL",
+                "travelDate": "2018-09-09/2018-09-09/2018-09-09",
+                "travelTime": "",
+                "arrDate": "2018-09-09/2018-09-09/2018-09-09",
+                "arrTime": "",
+                "flightNo": "MU335/MU335/MU599",
+                "cabinName": "B/W/B"
+            },
+            {
+                "routeDirect": "return",
+                "routeName": "ATL/LAX/SHA",
+                "travelDate": "2018-09-10/2018-09-10",
+                "travelTime": "",
+                "arrDate": "2018-09-10/2018-09-10",
+                "arrTime": "",
+                "flightNo": "MU335/MU335",
+                "cabinName": "B/W"
+            }
+        ]
     }
-    #main>div {
-        display: inline-block;
-        width: 479px;
-        height: 479px;
-        margin: 9px;
-        background-color: #ffffff;
-    }
-    </style>
-</head>
-<body>
-    <div id="main">
-        <div><span>1</span></div>
-        <div><span>2</span></div>
-        <div><span>3</span></div>
-    </div>
-</body>
-</html>
+}
