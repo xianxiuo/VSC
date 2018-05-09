@@ -8,7 +8,7 @@
     "language": "zh",
     "saleDate": "2018-05-03 02:03:56",
     "paxType": "ADT",
-    "queryType": "ALL",
+    "queryType": "",
     "routeList": [
         {
             "routeDirect": "depart",
