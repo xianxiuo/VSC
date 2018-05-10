@@ -6,29 +6,30 @@
     "routeType": "RT",
     "currType": "0",
     "language": "zh",
-    "saleDate": "2018-05-03 02:03:56",
+    "saleDate": "2018-05-10 02:03:56",
     "paxType": "ADT",
     "queryType": "",
     "routeList": [
         {
             "routeDirect": "depart",
-            "routeName": "SHA/LAX/ATL",
-            "travelDate": "2018-09-09/2018-09-09",
+            "routeName": "NKG/BKK",
+            "travelDate": "2018-06-04",
             "travelTime": "",
-            "arrDate": "2018-09-09/2018-09-09",
+            "arrDate": "2018-06-04",
             "arrTime": "",
-            "flightNo": "MU335/MU599",
-            "cabinName": "F/F"
+            "flightNo": "MU335",
+            "cabinName": "QWERTYUIOPASDFGHJKLZXCVBNM"
         },
         {
             "routeDirect": "return",
-            "routeName": "ATL/LAX/SHA/CTU",
-            "travelDate": "2018-09-10/2018-09-10/2018-09-10",
+            "routeName": "BKK/NKG",
+            "travelDate": "2018-06-14",
             "travelTime": "",
-            "arrDate": "2018-09-10/2018-09-10/2018-09-10",
+            "arrDate": "2018-06-14",
             "arrTime": "",
-            "flightNo": "MU339/MU801/MU801",
-            "cabinName": "F/F/F"
+            "flightNo": "MU339",
+            "cabinName": "QWERTYUIOPASDFGHJKLZXCVBNM"
         }
-    ]
+    ],
+    "queryFlag": ""
 }
