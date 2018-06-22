@@ -1,0 +1,10 @@
+1（CDGPVG）：NullPointerException（Cat001Checker line：148）（Record1没有Match的Segs）
+2（FUKPVG）：CheckRouting失败（MPM验证失败）（SPACheckRoutingProcessor line：463）
+3（HGHHKG）：RDR验证失败，没有RoutingType2（link：00000061，type1id：66416661，不支持Routing如：SHAMUWUHMUTPE）
+4（HGHHKT）：RRR验证失败，需要相同的Carrier和FilghtNO（type3：{routingtype3Id:262898,routingtype1Id:59999270,link:00000072,seqnum:1,restnum:3,mktappl:R,vianondir:E}）（SPACheckRoutingProcessor line：999）
+5（HGHOKA）：CheckRouting失败（MPM验证失败）（SPACheckRoutingProcessor line：463）
+6（HIATPE）：RDR验证失败，没有RoutingType2（link：00000142，type1id：69474939，不支持Routing如：HIAMUSHAMUTPE）
+7（HKGHGH）：RDR验证失败，没有RoutingType2（link：00000061，type1id：66416661，不支持Routing如：HKGMUKMGMUHGH）
+8（HKGSHA）：RDR验证失败，没有RoutingType2（link：00000226，type1id：64623841，不支持Routing如：HKGMUSIAMUSHA）
+9（HKGWUX）：RDR验证失败，没有RoutingType2（link：00050229，type1id：3465989，不支持Routing如：HKGMUSIAMUSHA）
+10（HKTKMG）：RDR验证失败，没有RoutingType2（link：00000103，type1id：57986301，不支持Routing如：HKTMUTNYMUKMG）
