@@ -1,12 +1,1 @@
-1（CDGPVG）：RHR验证失败（没有匹配的G16）（SPACheckRoutingProcessor line：1173）
-2（FUKPVG）：RHR验证失败（没有匹配的G16）（SPACheckRoutingProcessor line：1173）
-3（FUKYNT）：RDR验证失败，没有RoutingType2（SHAMUWUHMUTPE，link：00046918，type1id：3352500）
-4（HGHHKG）：NullPointerException（ComBusiUtil line：83，Location：{airPort:'null',city:NKG,state:'null',country:CN,zone:320,area:3}）
-5（HGHHKT）：RDR验证失败，没有RoutingType2（SHAMUWUHMUSDY，link：00000100，type1id：52477946）
-6（HGHOKA）：RHR验证失败（没有匹配的G16）（SPACheckRoutingProcessor line：1173）
-    ：RRR验证失败，需要相同的Carrier和FilghtNO（type3：{routingtype3Id:262898,routingtype1Id:59999270,link:00000072,seqnum:1,restnum:3,mktappl:R,vianondir:E}）（SPACheckRoutingProcessor line：999）
-7（HIATPE）：RHR验证失败（没有匹配的G16）（SPACheckRoutingProcessor line：1173）
-    ：RRR验证失败，需要相同的Carrier和FilghtNO（type3：{routingtype3Id:262898,routingtype1Id:59999270,link:00000072,seqnum:1,restnum:3,mktappl:R,vianondir:E}）（SPACheckRoutingProcessor line：999）
-8（HKGHGH）：RRR验证失败，需要相同的Carrier和FilghtNO（type3：{routingtype3Id:262898,routingtype1Id:59999270,link:00000072,seqnum:1,restnum:3,mktappl:R,vianondir:E}）（SPACheckRoutingProcessor line：999）
-9（HKGNKG）：CheckRouting失败（MPM验证失败）（SPACheckRoutingProcessor line：463）
-10（HKGPVG）：RDR验证失败，没有RoutingType2（HKGMUKMGMUHGH，link：00000061，type1id：66416661）
+3141664342	201804100400	0	003	MU	SHA	CN	LAX	US	ZLXA2CN		2999-01-01 00:00:00	E115	0024	2	ATP	2000.0000	CNY	0	0.0000		0	0.0000		0			6A	F	PA	2018-04-11 00:00:00	7778	0					0.0000			0					0.0000			0		0.0000		0			R	18100	17192	MU	45007	0	002	00003		    X             	2018-04-10 00:00:00	A9A						SEQUENCE: 5000000	EFFECTIVE: 20141226	 FOR  MIDWEEK FARES	 PERMITTED  MON/TUE/WED/THU  					SEQUENCE: 5061667	EFFECTIVE: 20170712	 FOR  Z-A2 TYPE FARES	RESERVATIONS FOR ALL SECTORS AND TICKETING ARE REQUIRED AT LEAST 90 DAYS    BEFORE DEPARTURE.		FARE RULE E115 IN TARIFF 003		FARE RULE E115 IN TARIFF 003
