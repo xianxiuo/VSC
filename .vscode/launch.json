@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "VSC_d2afbfe2"
+        },
+        {
+            "type": "java",
             "name": "Debug (Launch)-test",
             "request": "launch",
             "cwd": "${workspaceFolder}",

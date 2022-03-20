@@ -1,2 +1,0 @@
-mvn install:install-file -Dfile=/Users/xianxiuo163.com/Documents/Projects/Eclipse/Stressing/lib/AtpcoIceClient-3.6.jar  -DgroupId=com.ceairs -DartifactId=AtpcoIce  -Dversion=1.0.0 -Dpackaging=jar
-mvn install:install-file -Dfile=/Users/xianxiuo163.com/Documents/Projects/Eclipse/Stressing/lib/CaresIceClient-3.6.jar  -DgroupId=com.mufare -DartifactId=CaresIce  -Dversion=1.0.0 -Dpackaging=jar
